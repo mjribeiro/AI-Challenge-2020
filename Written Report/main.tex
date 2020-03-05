@@ -1,0 +1,187 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Template for lab reports used at STIMA
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Sets the document class for the document
+% Openany is added to remove the book style of starting every new chapter on an odd page (not needed for reports)
+\documentclass[10pt,english, openany]{book}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Loading packages that alter the style
+\usepackage[]{graphicx}
+\usepackage[]{color}
+\usepackage{alltt}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\setcounter{secnumdepth}{3}
+\setcounter{tocdepth}{3}
+\setlength{\parskip}{\smallskipamount}
+\setlength{\parindent}{0pt}
+
+
+% Set page margins
+\usepackage[top=100pt,bottom=100pt,left=68pt,right=66pt]{geometry}
+
+% Package used for placeholder text
+\usepackage{lipsum}
+
+% Prevents LaTeX from filling out a page to the bottom
+\raggedbottom
+
+% Adding both languages
+\usepackage[english]{babel}
+
+% All page numbers positioned at the bottom of the page
+\usepackage{fancyhdr}
+\fancyhf{} % clear all header and footers
+\fancyfoot[C]{\thepage}
+\renewcommand{\headrulewidth}{0pt} % remove the header rule
+\pagestyle{fancy}
+
+% Changes the style of chapter headings
+\usepackage{titlesec}
+\titleformat{\chapter}
+   {\normalfont\LARGE\bfseries}{\thechapter.}{1em}{}
+% Change distance between chapter header and text
+\titlespacing{\chapter}{0pt}{50pt}{2\baselineskip}
+
+% Adds table captions above the table per default
+\usepackage{float}
+\floatstyle{plaintop}
+\restylefloat{table}
+
+% Adds space between caption and table
+\usepackage[tableposition=top]{caption}
+
+% Adds hyperlinks to references and ToC
+\usepackage{hyperref}
+\hypersetup{hidelinks,linkcolor = black} % Changes the link color to black and hides the hideous red border that usually is created
+
+% If multiple images are to be added, a folder (path) with all the images can be added here 
+\graphicspath{ {Figures/} }
+
+% Separates the first part of the report/thesis in Roman numerals
+\frontmatter
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Starts the document
+\let\cleardoublepage=\clearpage
+\begin{document}
+
+%%% Selects the language to be used for the first couple of pages
+\selectlanguage{english}
+
+%%%%% Adds the title page
+\begin{titlepage}
+	\clearpage\thispagestyle{empty}
+	\centering
+	\vspace{1cm}
+
+	% Titles
+	% Information about the University
+	{\normalsize CM50304: AI Challenge \\ 
+		Department of Computer Science \\
+		University of Bath, UK \par}
+		\vspace{3cm}
+	{\Huge \textbf{Air quality monitoring using an AI-based device}} \\
+	%\vspace{1cm}
+	%{\large \textbf{xxxxx} \par}
+	\vspace{4cm}
+	{\normalsize FIRST LAST \\ % \\ specifies a new line
+	             FIRST LAST \\
+	             FIRST LAST \\
+	             FIRST LAST \\
+	             FIRST LAST \par}
+	\vspace{5cm}
+    
+    \centering \includegraphics[scale=0.1]{University_of_Bath_logo.svg.png}
+    
+    \vspace{0.5cm}
+		
+	% Set the date
+	{\normalsize 8th May 2020 \par}
+	
+	\pagebreak
+
+\end{titlepage}
+
+% Adds a table of contents
+\tableofcontents{}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%% Text body starts here!
+\mainmatter
+
+\chapter{Summary}\label{chapt:sum}
+[\textit{Briefly describe the goal of the project.}]
+
+\chapter{Problem definition and background}
+\section{Problem specification}
+[\textit{This section should state the challenge, motivate why this challenge is important and explain how it relates to AI.}]
+
+\section{Literature review}
+[\textit{This section should review the existing solutions for this challenge and critically analyse ethical issues related to them. It is maybe the case that there are no existing solutions for the chosen challenge. In this case this should be clearly stated and analysed why it is so. If applicable, existing solutions for related challenges may be reviewed here. For example, if your solution is based on solutions for other challenges you should review and critically analyse them in this section.}]
+
+\section{Proposed solution}
+[\textit{This section should explain your ambitious solution and why it requires or why it benefits from the interdisciplinary approach. If the solution involves novel research the section should explain why you believe that this research is likely to be successful in the foreseeable future (see above).}]
+
+\chapter{Air quality monitoring device}\label{chapt:doe}
+[\textit{Describe the engineering part of the project.}]
+
+\section{Hardware}
+\section{Software}
+\section{Prototype Description}
+[\textit{This section should explain the scope of your developed prototype, explain how it works and how it relates to the whole solution. It should clearly demonstrate the interdisciplinary effort in this development. If interdisciplinary development was not possible (see above) it should be clearly stated in this section and explain why it was not possible to exploit some of the expertise from members of your group. This section should also reflect how the experience of developing this prototype has confirmed or questioned your whole solution and how it may have changed your view on the whole solution or possibly the challenge in general.}]
+
+\chapter{AI model}\label{chapt:model}
+[\textit{Describe the AI model in the project}]
+\section{Datasets}
+\section{Methodology}
+\section{Results}
+\section{Etc}
+
+\chapter{Social implications}
+[\textit{Describe the social science aspect of the project?}]
+
+\chapter{Discussion}\label{chapt:results}
+\section{Critical reflection of proposed solution}
+[\textit{This section should provide an analysis of how the proposed solution meets accountability, responsibility, transparency and other ethical concerns. It should honestly reflect both the positive and negative impact the solution may have. If the view from the ethical perspective on the solution has changed during the work on this project this section should describe that and explain why the view has changed.}]
+
+\section{Future work}
+[\textit{This section should describe immediate and long-term steps after development of the prototype that should be made to achieve the whole solution. If during development of prototype or critical reflection of the solution you come to the conclusion that the proposed solution is not useful or not ethically responsible or the overall challenge should not be formulated in this way (see above), this section should clearly state this case and may omit description of future work.}]
+
+\section{Teamwork process}
+[\textit{This section should describe how your group organised teamwork, what communication channels and collaboration tools you used, how you distributed the tasks, what process allowed you to learn from another discipline during this project.}]
+
+\section{Lessons learnt (project)}
+[\textit{This section should reflect on the whole project from the teamwork perspective: what was done well, what could have been improved, what would you change if you were to work on another project in this group, what could you recommend for an interdisciplinary team.}]
+
+\section{Lessons learnt (per discipline)}
+[\textit{Each member of the group should state what they learnt from another discipline during this project.}]
+\subsection{Person 1}
+\subsection{Person 2}
+\subsection{Person 3}
+\subsection{Person 4}
+\subsection{Person 5}
+
+\chapter{Conclusions}
+
+\chapter{Individual contributions}
+[\textit{This section should briefly state individual contributions from each team member.}]
+
+\pagebreak
+
+
+% Adding a bibliography if citations are used in the report
+\bibliographystyle{plain}
+\bibliography{bibliography.bib}
+% Adds reference to the Bibliography in the ToC
+\addcontentsline{toc}{chapter}{\bibname}
+
+\pagebreak
+
+\chapter*{Appendix A: Code Etc}
+% \section{Reference solution data}
+
+
+\end{document}
