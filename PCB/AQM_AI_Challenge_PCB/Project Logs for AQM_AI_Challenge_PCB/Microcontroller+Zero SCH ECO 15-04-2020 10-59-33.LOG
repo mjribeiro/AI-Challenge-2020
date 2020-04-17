@@ -1,0 +1,7 @@
+Replace Part C4 Cap in D:\Git\AI-Challenge-2020\PCB\AQM_AI_Challenge_PCB\Microcontroller+Zero.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C5 Cap in D:\Git\AI-Challenge-2020\PCB\AQM_AI_Challenge_PCB\Microcontroller+Zero.SchDoc with Cap from Miscellaneous Devices.IntLib
+Update Managed Component J1 From CMP-1502-01135-1[61304021121] To CMP-1502-01135-1[61304021121] in Microcontroller+Zero.SchDoc
+Replace Part R11 Res1 in D:\Git\AI-Challenge-2020\PCB\AQM_AI_Challenge_PCB\Microcontroller+Zero.SchDoc with Res1 from Miscellaneous Devices.IntLib
+Update Managed Component U4 From CMP-0254-00293-1[DS3231SN] To CMP-0254-00293-1[DS3231SN] in Microcontroller+Zero.SchDoc
+Update Managed Component U5 From CMP-0188-00041-2[MCP3008-I/SL] To CMP-0188-00041-2[MCP3008-I/SL] in Microcontroller+Zero.SchDoc
+Update Managed Component U6 From CMP-0367-00041-2[REF5025AIDR] To CMP-0367-00041-2[REF5025AIDR] in Microcontroller+Zero.SchDoc

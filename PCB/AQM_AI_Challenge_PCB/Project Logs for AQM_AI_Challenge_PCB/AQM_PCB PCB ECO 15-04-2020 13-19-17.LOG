@@ -1,0 +1,25 @@
+Removed Member From Class: ClassName=Designator Member=C10
+Removed Member From Class: ClassName=Designator Member=C14
+Removed Member From Class: ClassName=Designator Member=C15
+Removed Member From Class: ClassName=Designator Member=C16
+Removed Member From Class: ClassName=Designator Member=R21
+Removed Member From Class: ClassName=Designator Member=R22
+Removed Member From Class: ClassName=Designator Member=R23
+Removed Member From Class: ClassName=Designator Member=R31
+Removed Member From Class: ClassName=Designator Member=R32
+Removed Member From Class: ClassName=Designator Member=R33
+Removed Member From Class: ClassName=Designator Member=R34
+Removed Member From Class: ClassName=Designator Member=R35
+Removed Member From Class: ClassName=Designator Member=R36
+Removed Member From Class: ClassName=Designator Member=R37
+Removed Member From Class: ClassName=Designator Member=U10
+Removed Member From Class: ClassName=Designator Member=U13
+Removed Member From Class: ClassName=Designator Member=U14
+Change Class Name : Old Net Name=Designator New Net Name=CO Output Processing
+Change Class Name : Old Net Name=Processing New Net Name=ADC + Pi
+Added Class: Name=300mV Ref Voltage
+Added Class: Name=NO Output Processing
+Added Room: Name=300mV Ref Voltage
+Added Room: Name=ADC + Pi
+Added Room: Name=CO Output Processing
+Added Room: Name=NO Output Processing

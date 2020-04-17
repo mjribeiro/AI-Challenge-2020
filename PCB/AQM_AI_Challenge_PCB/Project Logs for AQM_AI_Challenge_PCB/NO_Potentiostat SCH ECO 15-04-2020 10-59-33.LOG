@@ -1,0 +1,6 @@
+Replace Part C3 Cap in D:\Git\AI-Challenge-2020\PCB\AQM_AI_Challenge_PCB\NO_Potentiostat.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part NO Sensor1 GS+4NO in D:\Git\AI-Challenge-2020\PCB\AQM_AI_Challenge_PCB\NO_Potentiostat.SchDoc with GS+4NO from Gas_Sensors.SchLib
+Replace Part R7 Res1 in D:\Git\AI-Challenge-2020\PCB\AQM_AI_Challenge_PCB\NO_Potentiostat.SchDoc with Res1 from Miscellaneous Devices.IntLib
+Replace Part R8 Res1 in D:\Git\AI-Challenge-2020\PCB\AQM_AI_Challenge_PCB\NO_Potentiostat.SchDoc with Res1 from Miscellaneous Devices.IntLib
+Replace Part R9 Res1 in D:\Git\AI-Challenge-2020\PCB\AQM_AI_Challenge_PCB\NO_Potentiostat.SchDoc with Res1 from Miscellaneous Devices.IntLib
+Update Managed Component U3 From CMP-0187-00433-2[MCP601T-I/OT] To CMP-0187-00433-2[MCP601T-I/OT] in NO_Potentiostat.SchDoc

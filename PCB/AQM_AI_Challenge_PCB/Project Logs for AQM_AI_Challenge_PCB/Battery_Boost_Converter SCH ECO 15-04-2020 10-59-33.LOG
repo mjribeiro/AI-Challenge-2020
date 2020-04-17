@@ -1,0 +1,17 @@
+Update Managed Component Battery Connector From CMP-1755-00004-1[S2B-PH-K-S(LF)(SN)] To CMP-1755-00004-1[S2B-PH-K-S(LF)(SN)] in Battery_Boost_Converter.SchDoc
+Replace Part C17 Cap in D:\Git\AI-Challenge-2020\PCB\AQM_AI_Challenge_PCB\Battery_Boost_Converter.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C18 Cap in D:\Git\AI-Challenge-2020\PCB\AQM_AI_Challenge_PCB\Battery_Boost_Converter.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C19 Cap in D:\Git\AI-Challenge-2020\PCB\AQM_AI_Challenge_PCB\Battery_Boost_Converter.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C20 Cap in D:\Git\AI-Challenge-2020\PCB\AQM_AI_Challenge_PCB\Battery_Boost_Converter.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part D1 LED1 in D:\Git\AI-Challenge-2020\PCB\AQM_AI_Challenge_PCB\Battery_Boost_Converter.SchDoc with LED1 from Miscellaneous Devices.IntLib
+Replace Part D2 LED1 in D:\Git\AI-Challenge-2020\PCB\AQM_AI_Challenge_PCB\Battery_Boost_Converter.SchDoc with LED1 from Miscellaneous Devices.IntLib
+Replace Part R40 Res1 in D:\Git\AI-Challenge-2020\PCB\AQM_AI_Challenge_PCB\Battery_Boost_Converter.SchDoc with Res1 from Miscellaneous Devices.IntLib
+Replace Part R41 Res1 in D:\Git\AI-Challenge-2020\PCB\AQM_AI_Challenge_PCB\Battery_Boost_Converter.SchDoc with Res1 from Miscellaneous Devices.IntLib
+Replace Part R42 Res1 in D:\Git\AI-Challenge-2020\PCB\AQM_AI_Challenge_PCB\Battery_Boost_Converter.SchDoc with Res1 from Miscellaneous Devices.IntLib
+Replace Part R43 Res1 in D:\Git\AI-Challenge-2020\PCB\AQM_AI_Challenge_PCB\Battery_Boost_Converter.SchDoc with Res1 from Miscellaneous Devices.IntLib
+Replace Part R44 Res1 in D:\Git\AI-Challenge-2020\PCB\AQM_AI_Challenge_PCB\Battery_Boost_Converter.SchDoc with Res1 from Miscellaneous Devices.IntLib
+Replace Part R45 Res1 in D:\Git\AI-Challenge-2020\PCB\AQM_AI_Challenge_PCB\Battery_Boost_Converter.SchDoc with Res1 from Miscellaneous Devices.IntLib
+Replace Part RT1 Res Thermal in D:\Git\AI-Challenge-2020\PCB\AQM_AI_Challenge_PCB\Battery_Boost_Converter.SchDoc with Res Thermal from Miscellaneous Devices.IntLib
+Update Managed Component U16 From CMP-0395-00601-2[TPS73701DRBR] To CMP-0395-00601-2[TPS73701DRBR] in Battery_Boost_Converter.SchDoc
+Update Managed Component U17 From CMP-0321-00905-2[BQ24092DGQT] To CMP-0321-00905-2[BQ24092DGQT] in Battery_Boost_Converter.SchDoc
+Update Managed Component USB Port From CMP-2000-05408-1[1981568-1] To CMP-2000-05408-1[1981568-1] in Battery_Boost_Converter.SchDoc

@@ -1,0 +1,5 @@
+Replace Part C10 Cap in D:\Git\AI-Challenge-2020\PCB\AQM_AI_Challenge_PCB\300mV_Reference_Voltage.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part R21 Res1 in D:\Git\AI-Challenge-2020\PCB\AQM_AI_Challenge_PCB\300mV_Reference_Voltage.SchDoc with Res1 from Miscellaneous Devices.IntLib
+Replace Part R22 Res1 in D:\Git\AI-Challenge-2020\PCB\AQM_AI_Challenge_PCB\300mV_Reference_Voltage.SchDoc with Res1 from Miscellaneous Devices.IntLib
+Replace Part R23 Res1 in D:\Git\AI-Challenge-2020\PCB\AQM_AI_Challenge_PCB\300mV_Reference_Voltage.SchDoc with Res1 from Miscellaneous Devices.IntLib
+Update Managed Component U10 From CMP-0074-00728-2[LM4041CIM3-ADJ/NOPB] To CMP-0074-00728-2[LM4041CIM3-ADJ/NOPB] in 300mV_Reference_Voltage.SchDoc
