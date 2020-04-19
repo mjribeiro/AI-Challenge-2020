@@ -1,0 +1,76 @@
+Net Status Report
+Filename     : D:\Git\AI-Challenge-2020\PCB\AQM_AI_Challenge_PCB\AQM_PCB.PcbDoc
+Date         : 19/04/2020
+Time         : 16:44:27
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    GND, Signal Layers Only, 68.6251mm
+    NetBattery_1, Signal Layers Only, 24.4485mm
+    NetC10_2, Signal Layers Only, 54.3258mm
+    NetC11_1, Signal Layers Only, 11.2624mm
+    NetC11_2, Signal Layers Only, 18.9966mm
+    NetC12_1, Signal Layers Only, 13.263mm
+    NetC12_2, Signal Layers Only, 20.0287mm
+    NetC13_2, Signal Layers Only, 8.198mm
+    NetC14_1, Signal Layers Only, 10.1023mm
+    NetC14_2, Signal Layers Only, 7.5862mm
+    NetC15_1, Signal Layers Only, 18.1994mm
+    NetC15_2, Signal Layers Only, 15.7824mm
+    NetC16_2, Signal Layers Only, 1.432mm
+    NetC19_1, Signal Layers Only, 6.0598mm
+    NetC1_1, Signal Layers Only, 91.9219mm
+    NetC1_2, Signal Layers Only, 2.9918mm
+    NetC20_2, Signal Layers Only, 35.9178mm
+    NetC2_1, Signal Layers Only, 100.4607mm
+    NetC2_2, Signal Layers Only, 3.0042mm
+    NetC3_1, Signal Layers Only, 45.4111mm
+    NetC3_2, Signal Layers Only, 2.7478mm
+    NetC4_2, Signal Layers Only, 47.7785mm
+    NetC5_2, Signal Layers Only, 1.9432mm
+    NetC6_1, Signal Layers Only, 81.5596mm
+    NetC6_2, Signal Layers Only, 84.9485mm
+    NetC7_1, Signal Layers Only, 13.5482mm
+    NetC7_2, Signal Layers Only, 13.2032mm
+    NetC8_1, Signal Layers Only, 5.6694mm
+    NetC8_2, Signal Layers Only, 14.4925mm
+    NetC9_1, Signal Layers Only, 62.882mm
+    NetC9_2, Signal Layers Only, 26.3537mm
+    NetCO Sensor1_4, Signal Layers Only, 90.6694mm
+    NetCO Sensor1_9, Signal Layers Only, 45.2941mm
+    NetD1_1, Signal Layers Only, 9.1874mm
+    NetD1_2, Signal Layers Only, 6.2613mm
+    NetD2_1, Signal Layers Only, 5.1579mm
+    NetD2_2, Signal Layers Only, 7.5518mm
+    NetJ1_1, Signal Layers Only, 7.1891mm
+    NetJ1_19, Signal Layers Only, 7.0834mm
+    NetJ1_21, Signal Layers Only, 2.6344mm
+    NetJ1_23, Signal Layers Only, 8.4915mm
+    NetJ1_24, Signal Layers Only, 6.1903mm
+    NetJ1_3, Signal Layers Only, 8.9356mm
+    NetJ1_5, Signal Layers Only, 5.7514mm
+    NetNO Sensor1_0, Signal Layers Only, 0mm
+    NetNO Sensor1_1, Signal Layers Only, 39.2098mm
+    NetNO1_4, Signal Layers Only, 86.7615mm
+    NetNO1_9, Signal Layers Only, 30.8408mm
+    NetR10_2, Signal Layers Only, 5.4952mm
+    NetR13_1, Signal Layers Only, 11.7287mm
+    NetR18_2, Signal Layers Only, 5.8142mm
+    NetR19_1, Signal Layers Only, 15.8525mm
+    NetR1_1, Signal Layers Only, 4.1062mm
+    NetR21_2, Signal Layers Only, 8.0193mm
+    NetR28_2, Signal Layers Only, 2.7217mm
+    NetR29_1, Signal Layers Only, 12.3577mm
+    NetR35_2, Signal Layers Only, 3.3134mm
+    NetR36_1, Signal Layers Only, 8.4056mm
+    NetR38_1, Signal Layers Only, 3.9073mm
+    NetR3_2, Signal Layers Only, 1.4498mm
+    NetR44_2, Signal Layers Only, 7.1841mm
+    NetR45_2, Signal Layers Only, 8.4581mm
+    NetR4_1, Signal Layers Only, 3.6044mm
+    NetR6_2, Signal Layers Only, 1.5138mm
+    NetR7_1, Signal Layers Only, 18.4727mm
+    NetR9_2, Signal Layers Only, 1.864mm
+    NetRT1_1, Signal Layers Only, 3.3497mm
+    VCC, Signal Layers Only, 0mm
+count : 68
