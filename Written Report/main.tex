@@ -27,6 +27,9 @@
 % Prevents LaTeX from filling out a page to the bottom
 \raggedbottom
 
+%add pdfs
+\usepackage{pdfpages}
+
 % Adding both languages
 \usepackage[english]{babel}
 
@@ -59,9 +62,16 @@
 % If multiple images are to be added, a folder (path) with all the images can be added here 
 \graphicspath{ {Figures/} }
 
+% package for subfigures
+\usepackage{subcaption}
+
 % Separates the first part of the report/thesis in Roman numerals
 \frontmatter
 
+% Stuff for tables:
+\usepackage{tabulary}
+\usepackage{colortbl}
+\usepackage[x11names,table]{xcolor}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Starts the document
 \let\cleardoublepage=\clearpage
