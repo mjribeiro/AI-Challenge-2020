@@ -1,4 +1,4 @@
-# Citizen Data Science: Exploring the use of machinelearning for a public network of low-cost air quality devices
+# Citizen Data Science: Exploring the use of machine learning for a public network of low-cost air quality devices
 
 Might add/change this information to be about our project specifically, but for now I think the general description and some assignment guidelines should be helpful for keeping track of deadlines and structuring submissions :)
 
