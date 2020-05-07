@@ -1,4 +1,4 @@
-# AI Challenge Project Repo
+# Citizen Data Science: Exploring the use of machinelearning for a public network of low-cost air quality devices
 
 Might add/change this information to be about our project specifically, but for now I think the general description and some assignment guidelines should be helpful for keeping track of deadlines and structuring submissions :)
 
@@ -14,9 +14,9 @@ This is the repository for the report and code for a group project for the CM503
 ## Assessments
 |Task          |% of Mark | Date & Time           |Done? (Y/N)| 
 |--------------|----------|-----------------------|-----------|
-|Prototype     |0?        |20/04/2020, 17:15      |N          |
-|Prototype Demo|20        |04/05/2020, 14:15-16:05|N          | 
-|Written Report|80        |08/05/2020, 16:00      |N          | 
+|Prototype     |0?        |20/04/2020, 17:15      |Y          |
+|Prototype Demo|20        |04/05/2020, 14:15-16:05|Y          | 
+|Written Report|80        |08/05/2020, 16:00      |Y          | 
 
 ### Demo and Presentation (20%)
 Maximum 5 min demonstration of prototype, followed by 20 min presentation with 5 min of questioning. The presentation should cover:
